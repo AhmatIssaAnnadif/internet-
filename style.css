@@ -1,10 +1,27 @@
-      h1 {
-        /* yazının rengi mavi ve fontu 50px yapar*/
-        color: blue;
-        font-size: 50px;
-      }
-      p {
-        /* yazının rengi kırmızı ve altı çizili olur*/
-        color: red;
-        text-decoration: underline;
-      }
+.sporty{
+    color: red;
+    font-size: 30px
+}
+.casual{
+    color:yellow;
+    font-size: 30px
+}
+.formal{
+    color: blue;
+    font-size: 30px
+}
+#container{
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+.sporty , .casual {
+    font-size: 35px;
+}
+p{
+    background-color: red;
+}
