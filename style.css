@@ -15,6 +15,9 @@
     margin: 100px auto;
     padding: 20px;
 }
+#container p {
+    background-color:beige ;
+}
 a{
     color: blue;
     text-decoration: none;
