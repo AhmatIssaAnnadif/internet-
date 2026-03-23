@@ -1,0 +1,10 @@
+      h1 {
+        /* yazının rengi mavi ve fontu 50px yapar*/
+        color: blue;
+        font-size: 50px;
+      }
+      p {
+        /* yazının rengi kırmızı ve altı çizili olur*/
+        color: red;
+        text-decoration: underline;
+      }
