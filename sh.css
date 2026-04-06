@@ -1,3 +1,7 @@
-h1.title{
+.title h1{
     background-color: #d52d2d;
+}
+#h p 
+{
+   font-weight: 1000;
 }
