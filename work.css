@@ -3,3 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
+.sticky {
+  position: sticky;
+  top: 0;
+  background: purple;
+  color: white;
+  padding: 10px;
+}
