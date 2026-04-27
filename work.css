@@ -1,17 +1,7 @@
-a{
-    text-decoration: none;
-    color: #333;
-}
-a:hover{
-    color: red;
-}
-a:focus{
-    color:yellow;
-}
-a:visited {
-  color: purple;                 /* yazı rengi */
-  background-color: #eee;        /* arka plan rengi */
-  border-color: gray;           /* kenarlık rengi */
-  outline-color: orange;        /* dış çizgi rengi */
-  text-decoration-color: red;   /* alt çizgi rengi */
+
+
+.box{
+    background-color: darkblue;
+    color: white;
+    padding: 20px;
 }
