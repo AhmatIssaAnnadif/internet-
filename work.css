@@ -1,7 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-.box{
-    border-radius: 30px ;
+h1{
+    border: 2px solid;
+    margin: 20px;
+    width: 150px;
+    height: 100px;
+    overflow: auto;
 }
