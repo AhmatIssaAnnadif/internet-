@@ -3,10 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
-.sticky {
-  position: sticky;
-  top: 0;
-  background: purple;
-  color: white;
-  padding: 10px;
+.flex-item{
+  height: 200px;
+  width: 200px;
+  background-color: coral;
+  border: 1px solid black;
+}
+.flex-container{
+  display: flex;
+  background-color: #ccc;
 }
