@@ -3,13 +3,11 @@
     padding: 0;
     box-sizing: border-box;
 }
-.flex-item{
-  height: 200px;
-  width: 200px;
-  background-color: coral;
-  border: 1px solid black;
-}
+
 .flex-container{
   display: flex;
-  background-color: #ccc;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 1px solid;
 }
